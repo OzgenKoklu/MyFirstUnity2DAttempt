@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a2c50d9-e1e8-76ac-019f-f4d813b4a5b3": {
+      "ProjectGuid": "7a2c50d9-e1e8-76ac-019f-f4d813b4a5b3",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c8154b53-531e-acd2-5c95-a70238d9844e": {
+      "ProjectGuid": "c8154b53-531e-acd2-5c95-a70238d9844e",
+      "DisplayName": "Unity.VisualStudio.Editor",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
