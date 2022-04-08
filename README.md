@@ -36,5 +36,4 @@ I know that the first scene has decreasing health but the second one does not, t
 This repo was uploaded using Git Bash, I had yet to learn about Version Control Package provided by Unity Technologies. \
 I did copy the project folder as is without tweaking any settings.\
 I just learned about visible/not visible Meta files and asset serialization options that can have an impact.\
-From now on, for my Unity projects I will use the version control package provided by unity, however, just for a little challenge, \
-I will try to fix issues with this repo by using conventional methods when I have the time.
+From now on, for my Unity projects I will use the version control package provided by unity.
