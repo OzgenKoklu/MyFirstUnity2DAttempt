@@ -1,7 +1,11 @@
 # MyFirstUnity2DAttempt
-My first Unity project using "2D core". I learned game development basics by developing this mini 2D side scroller platformer.
+My first Unity project using "2D core". I learned game development basics by developing this mini 2D side scroller platformer.\
+
+# Short Gameplay clip - Image contains a Youtube Link
 
 [![Short Gameplay Video](https://img.youtube.com/vi/f6oAstc5-DI/0.jpg)](https://www.youtube.com/watch?v=f6oAstc5-DI)
+
+Note: that elliptic white object that follows the player is a remainder from playing around with sub prefabs.\
 
 # Things I've learned developing this project:  
 -Unity UI / layouts / Using Package manager\
