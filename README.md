@@ -1,5 +1,5 @@
 # MyFirstUnity2DAttempt
-My first Unity project using "2D core". I learned game development basics by developing this mini 2D side scroller platformer.
+My first Unity project using "2D core". I learned game development basics by developing this mini 2D side scroller platformer. I followed tutorials provided by Tolgay Hıçkıran, a Unity certified Instructor. Project was done in a few days back in December 2021 with little to no prior knowledge on game engines. But I had prior knowledge on OOP with Java.
 
 # Short Gameplay clip - Image contains a Youtube Link
 
