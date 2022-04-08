@@ -1,11 +1,11 @@
 # MyFirstUnity2DAttempt
 My first Unity project using "2D core". I learned game development basics by developing this mini 2D side scroller platformer.
 
-# Things I've learned developing this project:
--Unity UI / layouts / Using Package manager
--How unity works - hierarchy, game objects, and components (transform, renderer, collider, rigid body, audio source, animator, etc.)
--Execution order - awake, start, fixedUpdate, update, late update, etc
--Working with 2D assets - tilemaps / Sorting Layers 
+# Things I've learned developing this project:  
+-Unity UI / layouts / Using Package manager  **Enter**
+-How unity works - hierarchy, game objects, and components (transform, renderer, collider, rigid body, audio source, animator, etc.)  **Enter**
+-Execution order - awake, start, fixedUpdate, update, late update, etc  **Enter**
+-Working with 2D assets - tilemaps / Sorting Layers  **Enter**
 -Basics of Animation / Animator
 -Input Manager (old system)
 -Prefabs
