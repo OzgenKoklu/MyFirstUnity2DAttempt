@@ -1,5 +1,5 @@
 # MyFirstUnity2DAttempt
-My first Unity project using "2D core". I learned game development basics by developing this mini 2D side scroller platformer.\
+My first Unity project using "2D core". I learned game development basics by developing this mini 2D side scroller platformer.
 
 # Short Gameplay clip - Image contains a Youtube Link
 
