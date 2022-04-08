@@ -1,7 +1,7 @@
 # MyFirstUnity2DAttempt
 My first Unity project using "2D core". I learned game development basics by developing this mini 2D side scroller platformer.
 
-#Things I've learned developing this project:
+# Things I've learned developing this project:
 -Unity UI / layouts / Using Package manager
 -How unity works - hierarchy, game objects, and components (transform, renderer, collider, rigid body, audio source, animator, etc.)
 -Execution order - awake, start, fixedUpdate, update, late update, etc
@@ -13,14 +13,14 @@ My first Unity project using "2D core". I learned game development basics by dev
 -Scene Manager
 -Getting Builds
 
-#Game mechanics & Other on-screen actions using C# Scripting
+# Game mechanics & Other on-screen actions using C# Scripting
 -Waking
 -Jumping
 -Collectables
 -Health & Game Over
 -Scene changing (with character collision or button press for start screen)
 
-#Notes
+# Notes
 This project was done for learning purposes.
 It was my first ever game build, artistically it does not look appealing
 I used CC0 assets. Learned about asset usage ethics, and gathered my assets from Unity Asset Store and Kenney. 
