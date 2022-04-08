@@ -1,6 +1,8 @@
 # MyFirstUnity2DAttempt
 My first Unity project using "2D core". I learned game development basics by developing this mini 2D side scroller platformer.
 
+[![Short Gameplay Video](https://img.youtube.com/vi/f6oAstc5-DI/0.jpg)](https://www.youtube.com/watch?v=f6oAstc5-DI)
+
 # Things I've learned developing this project:  
 -Unity UI / layouts / Using Package manager\
 -How unity works - hierarchy, game objects, and components (transform, renderer, collider, rigid body, audio source, animator, etc.)\
