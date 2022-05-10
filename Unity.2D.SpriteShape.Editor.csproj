@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <LangVersion>8.0</LangVersion>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1344659C-EBBB-66D5-948F-6DD4F1961832}</ProjectGuid>
+    <ProjectGuid>{C8D798D1-B485-D222-07FD-514647371264}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.2D.SpriteShape.Editor</AssemblyName>
@@ -52,9 +52,6 @@
     <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
     <UnityVersion>2020.3.25f1</UnityVersion>
   </PropertyGroup>
-  <ItemGroup>
-    <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
-  </ItemGroup>
   <ItemGroup>
     <Compile Include="Library\PackageCache\com.unity.2d.spriteshape@5.1.6\Editor\AngleRangeView.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.spriteshape@5.1.6\Editor\ContextMenu.cs" />
@@ -684,39 +681,39 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.InternalAPIEditorBridge.001.csproj">
-      <Project>{A7A59AFC-ED11-CA5B-6147-3AAAF1E44722}</Project>
+      <Project>{158BA67E-90B6-12D7-8AFD-027F0C1B97E0}</Project>
       <Name>Unity.InternalAPIEditorBridge.001</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Common.Editor.csproj">
-      <Project>{500CC593-5F53-9818-29C7-7DCE54BB30B2}</Project>
+      <Project>{3D289FC1-E550-AFC7-95B0-3DBBC8105D2F}</Project>
       <Name>Unity.2D.Common.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Common.Runtime.csproj">
-      <Project>{825A5629-1260-98FE-72E9-D2BFBDA36B75}</Project>
+      <Project>{4E906F9C-4DA7-C5DB-18EC-88BF9D21FBA4}</Project>
       <Name>Unity.2D.Common.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.SpriteShape.Runtime.csproj">
-      <Project>{AB307A10-CE73-7F9F-857A-BE89B185D1C5}</Project>
+      <Project>{C3DDF14D-5CFD-A76A-C6AB-8DB2066D9861}</Project>
       <Name>Unity.2D.SpriteShape.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Path.Editor.csproj">
-      <Project>{DC43E47C-B9EB-DF08-D5EF-8646182EB1D4}</Project>
+      <Project>{57099FE0-E114-B1B5-A46B-9445B20C61F8}</Project>
       <Name>Unity.2D.Path.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{03FA48F2-A35B-CADE-C62F-68CE80D64F05}</Project>
+      <Project>{BB265BE9-4A42-BE69-E2AB-826916FC7E0C}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{60F814B0-8FD6-A91F-4269-FF0164197E14}</Project>
+      <Project>{44D02EC3-8B72-19F3-8309-E23EFDF04C32}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{DBD0EDE2-1E06-3251-68F7-D8864F597C5C}</Project>
+      <Project>{DFA3969A-CD5D-7F6A-7703-DED9456231B3}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{CB34E245-DC8D-F67F-AC79-85333A450EB0}</Project>
+      <Project>{7F9BFC40-897E-9D93-B198-E6B010777487}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>
